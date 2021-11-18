@@ -2,8 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Saira:wght@200&display=swap');
 
 body {
+    box-sizing: border-box;
     font-family: 'Saira', sans-serif;
     background-color: #EDF0F2;
+}
+
+a {
+    color:#39a2d6;
+    text-decoration: none;
 }
 
 p {
@@ -18,6 +24,10 @@ h1 {
 h4 {
     margin: 0;
     font-family: 'Poppins', sans-serif;
+}
+
+ul {
+    padding-left: 25px;
 }
 
 .container {
@@ -142,8 +152,9 @@ h4 {
     width: 25%;
     padding: 20px;
     transition: padding 0.8s, width 0.8s;
+    box-shadow: 0 0 10px 2px inset #CECECE;
     background: rgb(187, 187, 187);
-    background: radial-gradient(circle, rgba(187, 187, 187, 0.7259278711484594) 45%, rgba(101, 247, 250, 0.272) 100%);
+    background: radial-gradient(circle, rgba(187, 187, 187, 0.7259278711484594) 55%, rgba(104, 253, 255, 0.2721463585434174) 100%);
 }
 
 .box_photo {
@@ -197,8 +208,8 @@ h4 {
 
 .box_title:active,
 .box_title:hover {
-    background: rgb(255,255,255);
-    background: radial-gradient(circle, rgba(255,255,255,1) 50%, rgba(104,254,255,0.19931722689075626) 100%);
+    background: rgb(255, 255, 255);
+    background: radial-gradient(circle, rgba(255, 255, 255, 1) 50%, rgba(104, 254, 255, 0.19931722689075626) 100%);
 }
 
 .content_skills {
