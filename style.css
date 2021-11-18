@@ -143,7 +143,7 @@ h4 {
     padding: 20px;
     transition: padding 0.8s, width 0.8s;
     background: rgb(187, 187, 187);
-    background: radial-gradient(circle, rgba(187, 187, 187, 0.7259278711484594) 25%, rgba(104, 253, 255, 0.2721463585434174) 100%);
+    background: radial-gradient(circle, rgba(187, 187, 187, 0.7259278711484594) 45%, rgba(101, 247, 250, 0.272) 100%);
 }
 
 .box_photo {
@@ -198,7 +198,7 @@ h4 {
 .box_title:active,
 .box_title:hover {
     background: rgb(255,255,255);
-background: radial-gradient(circle, rgba(255,255,255,1) 50%, rgba(104,254,255,0.19931722689075626) 100%);
+    background: radial-gradient(circle, rgba(255,255,255,1) 50%, rgba(104,254,255,0.19931722689075626) 100%);
 }
 
 .content_skills {
