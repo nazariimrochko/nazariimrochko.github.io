@@ -138,8 +138,8 @@
   }
   .info_title {
     margin: 5px 0;
-    padding: 8px ;
-    font-size: 14px;
+    padding: 6px  0;
+    font-size: 16px;
   }
 
   .box_language {
@@ -159,6 +159,7 @@
     width: 43%;
   }
   .content_skills {
+    width: 100%;
     padding: 8px;
   }
 
