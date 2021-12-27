@@ -104,6 +104,7 @@ ul {
     text-align: center;
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
+    box-shadow: 0 0 4px 1px #7e7e7e;
     background: rgb(187, 187, 187);
     background: linear-gradient(90deg, rgba(187, 187, 187, 0.8547794117647058) 0%,
             rgba(255, 175, 104, 0.44861694677871145) 100%);
@@ -124,10 +125,11 @@ ul {
     cursor: pointer;
     font-family: 'Poppins', sans-serif;
     font-size: 18px;
+    box-shadow: 0 0 4px 1px #7e7e7e;
     color: rgb(70, 70, 70);
     font-weight: 600;
     background: linear-gradient(90deg, rgba(187, 187, 187, 0.8547794117647058) 0%,
-            rgba(255, 175, 104, 0.44861694677871145) 100%);
+    rgba(255, 175, 104, 0.45) 100%);
 }
 
 .active,
@@ -150,7 +152,7 @@ ul {
     flex-direction: column;
     align-content: center;
     width: 25%;
-    padding: 20px;
+    padding: 10px;
     transition: padding 0.8s, width 0.8s;
     box-shadow: 0 0 10px 2px inset #CECECE;
     background: rgb(187, 187, 187);
@@ -165,7 +167,8 @@ ul {
 
 .photo {
     width: 100%;
-    border-radius: 50%;
+    border-radius: 2px;
+    box-shadow: 0 0 5px 2px #5A5B5C;
 }
 
 .list_info {
@@ -203,6 +206,7 @@ ul {
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
     text-align: center;
+    box-shadow: 0 0 4px 1px #7e7e7e;
     background-color: #fff;
 }
 
