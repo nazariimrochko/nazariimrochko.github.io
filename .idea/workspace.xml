@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c7049209-6f08-4e1c-8613-bf35dbbbb138" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +31,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/nazariimrochko/nazariimrochko.github.io" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="220CkpDpZVERje3COKkivpzfPg2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My_CV" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -84,7 +90,8 @@
       <workItem from="1640436922132" duration="23000" />
       <workItem from="1640437172086" duration="629000" />
       <workItem from="1640439084166" duration="642000" />
-      <workItem from="1640590576747" duration="982000" />
+      <workItem from="1640590576747" duration="1221000" />
+      <workItem from="1640592320841" duration="76000" />
     </task>
     <servers />
   </component>

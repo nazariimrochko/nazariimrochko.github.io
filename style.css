@@ -181,7 +181,6 @@ ul {
 }
 
 .box_infomation {
-    padding: 5px;
     align-content: center;
 }
 
@@ -189,16 +188,16 @@ ul {
     text-align: center;
     font-size: 16px;
     font-weight: 600;
-    margin: 5px;
+    margin: 5px 0;
     padding: 8px;
     font-family: 'Poppins', sans-serif;
+    box-shadow: 0 0 4px 1px #7e7e7e;
     background-color: #fff
 }
 
 .box_title {
     width: 100%;
     border: none;
-    text-align: left;
     outline: none;
     padding: 8px;
     margin: 5px 0;
