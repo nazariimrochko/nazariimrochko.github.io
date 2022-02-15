@@ -46,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My_CV" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -94,7 +94,8 @@
       <workItem from="1640592320841" duration="721000" />
       <workItem from="1642267228543" duration="40000" />
       <workItem from="1643909399949" duration="447000" />
-      <workItem from="1643909979850" duration="12000" />
+      <workItem from="1643909979850" duration="106000" />
+      <workItem from="1644936108718" duration="279000" />
     </task>
     <servers />
   </component>
@@ -114,11 +115,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="673" y="283" key="FileChooserDialogImpl" timestamp="1642267252870">
+    <state x="673" y="283" key="FileChooserDialogImpl" timestamp="1644936118221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-831" y="279" key="FileChooserDialogImpl/0.0.1920.1040/-1280.0.1280.1024@-1280.0.1280.1024" timestamp="1640251265659" />
-    <state x="673" y="283" key="FileChooserDialogImpl/0.0.1920.1040/-1280.0.1280.1024@0.0.1920.1040" timestamp="1642267252870" />
+    <state x="673" y="283" key="FileChooserDialogImpl/0.0.1920.1040/-1280.0.1280.1024@0.0.1920.1040" timestamp="1644936118221" />
     <state width="1258" height="248" key="GridCell.Tab.0.bottom" timestamp="1639733277861">
       <screen x="-1280" y="0" width="1280" height="1024" />
     </state>
